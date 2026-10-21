@@ -1,0 +1,13 @@
+{
+  "name": "Monstrum_Mac",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "description": "Therzie's Monstrum, Armory, Warfare and Wizardry for Mac. Installs them with a fix so their creatures, gear and effects stop showing pink, invisible or as dark squares on Apple Silicon. Does nothing on Windows or Linux.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "Therzie-Warfare-1.9.5",
+    "Therzie-Armory-1.4.3",
+    "Therzie-Monstrum-1.6.1",
+    "Therzie-Wizardry-1.2.3"
+  ]
+}
